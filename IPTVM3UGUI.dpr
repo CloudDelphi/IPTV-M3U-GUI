@@ -2,7 +2,9 @@ program IPTVM3UGUI;
 
 uses
   Vcl.Forms,
-  Unit1 in 'Unit1.pas' {Form1};
+  Unit1 in 'Unit1.pas' {Form1},
+  Channels in 'Sources\Modules\Channels.pas',
+  ChannelAddresses in 'Sources\Modules\ChannelAddresses.pas';
 
 {$R *.res}
 
