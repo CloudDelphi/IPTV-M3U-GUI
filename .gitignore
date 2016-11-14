@@ -7,3 +7,6 @@
 /Unit3.pas
 /IPTVM3UGUI.res
 /*.local
+__history
+*.dcu
+*.exe
